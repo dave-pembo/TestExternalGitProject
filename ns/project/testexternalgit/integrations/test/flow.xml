@@ -112,7 +112,7 @@
 </MAP>
 </INVOKE>
 
-<INVOKE NAME="Flow:" TIMEOUT="" SERVICE="pub.flow:debugLog" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+<INVOKE NAME="Flow" TIMEOUT="" SERVICE="pub.flow:debugLog" VALIDATE-IN="$none" VALIDATE-OUT="$none">
   <COMMENT></COMMENT>
 
   <!-- nodes -->
