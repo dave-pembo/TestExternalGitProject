@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/dave-pembo
   gitUsername: dave-pembo
   gitBranch: main
+services:
+- serviceName: project.testexternalgit.integrations:test
+  packages:
+  - name: TestExternalGitProject
+    version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.1969
