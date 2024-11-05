@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestExternalGitProject
+  gitServerName: GitHub Public _ dave_pembo
+  gitUrl: https://github.com/dave-pembo
+  gitUsername: dave-pembo
+  gitBranch: main
